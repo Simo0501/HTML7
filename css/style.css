@@ -75,6 +75,8 @@
     padding: 2rem;
   }
   .button-list {
+    display: flex;
+    align-items: center;
     text-align: left;
     padding: 1rem;
     margin-bottom: 2rem;
